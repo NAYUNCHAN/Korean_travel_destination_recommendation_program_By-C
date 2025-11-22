@@ -1,4 +1,4 @@
-# Korean_travel_destination_recommendation_program_By-C
+# Korean_travel_destination_recommendation_program
 C언어로 만드는 한국 여행 추천 프로그램
 
  -----
